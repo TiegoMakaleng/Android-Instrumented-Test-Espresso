@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Basic Espresso UI Test</string>
+    <string name="button_text">Note</string>
+    <string name="note">Espresso UI Testing</string>
+</resources>
